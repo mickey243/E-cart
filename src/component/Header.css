@@ -1,0 +1,8 @@
+.cart {
+  display: flex;
+  flex-direction: row;
+}
+.header__cart {
+  height: 30px;
+  width: 30px;
+}
